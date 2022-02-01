@@ -11,3 +11,12 @@ def Sanushana():
 
 Sanushana()
 
+#Function2
+
+def Sanu():
+    x = int(input("enter first number: "))
+    y = int(input("enter second number: "))
+    total = x - y
+    print("total:", total)
+
+Sanu()
