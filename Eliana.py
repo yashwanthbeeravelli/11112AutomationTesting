@@ -19,6 +19,14 @@ print("Result is: ",division(number1,number2))
 
 # ===========================================================
 
+number1=float(input("Enter first number: "))
+number2=float(input("Enter second number: "))
+def sustration(a,b):
+    sus=a/b
+    return sus
+print("Result is: ",sustration(number1,number2))
+
+# ===========================================================
 
 
 
